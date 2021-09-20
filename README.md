@@ -9,8 +9,10 @@
 
 ## Clone Application available
 
-- Netflix 
-- Airbnb
-- Spotify
-- Uber Eat
-- Instagram
+- [Netflix](https://ngx-netflix-ui-clone.web.app)
+- [Uber Eat](https://ngx-uber-eats-ui-clone.web.app)
+- [Airbnb](https://ngx-airbnb-ui-clone.web.app)
+- [Spotify](https://ngx-spotify-ui-clone.web.app)
+
+## Register to challenge
+https://ngxmasterclass.com/angular-challenges
